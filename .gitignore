@@ -1,0 +1,12 @@
+# Local scratch
+*.log
+*.tmp
+out/
+
+# Never commit anything derived from a real device
+captures/
+images/
+*.dd
+*.e01
+*.E01
+*.bin
